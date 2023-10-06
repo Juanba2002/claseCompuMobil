@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674485480668",
+    "project_id": "movil-efcef",
+    "storage_bucket": "movil-efcef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674485480668:android:c791eeaf501c0b86161819",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS67wQsj4lvg0No9pgeS-PgGDbmqVnIu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
